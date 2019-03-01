@@ -1,3 +1,3 @@
-# JMJ Medical Website Hosting
+# JMJ Medical Website Redirect
 
-This website was made using mobirise.
+This redirects jmjmedical.ca to justpractice.ca (including https sources)
